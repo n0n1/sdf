@@ -4,10 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "85c959a59644a5d85945311905561aa5",
-"index.html": "90af8aa1faa1a6d1c28a30ef7078df40",
-"/": "90af8aa1faa1a6d1c28a30ef7078df40",
-"main.dart.js": "e7480d16110c8e062e35acbb41bef681",
+"index.html": "d72cb20ff7d786a1246548ff3466af67",
+"/": "d72cb20ff7d786a1246548ff3466af67",
+"main.dart.js": "34c48d8d6054d4de1339038d95a169f8",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"icons.zip": "9ae4134f4d748d91395c1be60325e136",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -39,7 +40,7 @@ const RESOURCES = {
 "assets/images/background_form_partnership.jpg": "66ca0561bad20b9be1862103c8bd899e",
 "assets/images/create_logo.jpg": "6e9b628bc6a4bd1ee7ce8dd56a4ce833",
 "assets/AssetManifest.json": "b97fb4fc15fc696d06d4f286bc6002d2",
-"assets/NOTICES": "0f32a8f7b3ae33b177f46894d6dc5929",
+"assets/NOTICES": "3e498b88e2f078193758eb23a922095e",
 "assets/FontManifest.json": "469e42a701a53e2373d5083b363c22ad",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/Raleway-Medium.ttf": "2ec8557460d3a2cd7340b16ac84fce32",
